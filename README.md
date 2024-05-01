@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/lavanya-0709/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/152274078/c67ed0ba-5e4f-421d-b241-d72b20b84cce)
 
-### Name:
-### Register Number:
+### Name:LAVANYA S
+### Register Number:212223230112
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
